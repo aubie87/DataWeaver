@@ -1,7 +1,7 @@
 # DataWeaver
 General purpose prototype to manipulate large datasets from one form to another.
 
-Example input forms (all with their own schemas) might be XML, CSV, other structured data, unstructured data such as letters.
+Example input forms (all with their own schemas) might be XML, CSV, other structured data. Unstructured line data in forms such as statements, notices and letters.
 
 All need to be parsed and mapped to one or more standard output formats.
 
