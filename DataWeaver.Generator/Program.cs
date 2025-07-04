@@ -1,4 +1,4 @@
-﻿using DataWeaver.Generator;
+﻿using DataWeaver.Generator.App;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Serilog;
